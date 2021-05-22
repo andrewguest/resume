@@ -1,0 +1,98 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Andrew Guest
+    tagline: Guy who likes to write code
+    avatar: united-plane-edited.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: andrew@aguest.me
+    website: aguest.me #do not add http://
+    linkedin: andrew-guest-a891759a
+    github: andrewguest
+    stack-overflow: 11343576/andrew # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      - idiom: Python
+        level: Intermediate
+
+      - idiom: JavaScript
+        level: Intermediate
+        
+    interests:
+      - item: FastAPI
+        link:
+ 
+      - item: Vue.js
+        link:
+      
+      - item: NuxtJS
+        link:
+ 
+      - item: MongoDB
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am currently a UNIX systems engineer at Cerner with a passion for writing code and anything open source. In the last couple of years I have been developing internal tools for our team to steamline routine work.
+      
+      I have a passion for playing with new technologies and learning about other companies' application structure and tech stacks.
+      https://stackshare.io
+
+education:
+    - degree: Bachelor of Computer Security and Digital Forensics
+      university: Oklahoma State University Institute of Technology
+      time: 2012 - 2015
+
+experiences:
+    - role: Sr Systems Engineer
+      time: 2015 - Present
+      company: Cerner Corporation, Kansas City
+      details: |
+        Responsible for managing, patching, and upgrading over 100 Linux servers on a routine schedule.
+        Migrated one of our client’s applications from on premises to AWS.
+
+          - Created multiple web apps that are used, internally, by 4000+ users with FastAPI, NuxtJS, and MongoDB.
+          - Help other internal teams rearchitect their existing applications for the cloud.
+          - Create standardized documentation for new processes for other's to use.
+
+    - role: IT Security Intern
+      time: 2014 - 2014
+      company: Atlas Pipeline Partners, Tulsa
+      details: |
+        Responsible for setting up and deploying new intrusion detection software and monitoring their status.
+        Also responsible for creating reports on any security incidents and working with management to decide on the correct response strategy.
+
+projects:
+    title: Projects
+
+    assignments:
+      - title: "Code for Kansas City - Volunteer"
+        link: "https://codeforkc.org"
+        tagline: "Developers, designers, data geeks, policy buffs and idea makers working with local government to make Kansas City a better place through civic hacking and open data."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+      
+      - name: FastAPI
+        level: 80%
+
+      - name: Javascript & Vue.js
+        level: 70%
+
+      - name: HTML5
+        level: 80%
+      
+      - name: CSS
+        level: 50%

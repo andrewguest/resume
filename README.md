@@ -23,7 +23,7 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](http://webje
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
 * Go to settings and set Github Pages source as master.
-* Your new site should be ready at `https://username.github.io/online-cv/`
+* Your new site should be ready at `https://username.github.io/resume/`
 
 Change all the details from one place: ``_data/data.yml``
 

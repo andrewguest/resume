@@ -37,6 +37,12 @@ sidebar:
  
       - item: MongoDB
         link:
+      
+      - item: PostgreSQL
+        link:
+      
+      - item: Docker
+        link:
 
 career-profile:
     title: Career Profile

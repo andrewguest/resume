@@ -83,6 +83,8 @@ projects:
       - title: "Code for Kansas City - Volunteer"
         link: "https://codeforkc.org"
         tagline: "Developers, designers, data geeks, policy buffs and idea makers working with local government to make Kansas City a better place through civic hacking and open data."
+       
+      - title: "City Garden - Developer"
 
 skills:
     title: Skills &amp; Proficiency
